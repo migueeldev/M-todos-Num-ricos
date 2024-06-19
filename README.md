@@ -1,7 +1,7 @@
 # Algoritmos para la solución de ejercicios de métodos numéricos
 
 ### Autor:
-[MiguelAnggel](https://github.com/MiguelAnggel)
+[migueeldev](https://github.com/migueeldev)
 
 ### Algoritmos desarrollados:
 
