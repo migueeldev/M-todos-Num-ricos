@@ -1,8 +1,5 @@
 # Algoritmos para la solución de ejercicios de métodos numéricos
 
-### Autor:
-[migueeldev](https://github.com/migueeldev)
-
 ### Algoritmos desarrollados:
 
 - Serie de Taylor:  La serie de Taylor es una serie de potencias que se prolonga hasta el infinito, donde cada uno de los sumandos está elevado a una potencia mayor al antecedente. [(Codigo)](https://github.com/MiguelAnggel/M-todos-Num-ricos/blob/fb4de6783f084aebdbb45418c2a3ec3e094c31c1/01-serie_taylor.py)
